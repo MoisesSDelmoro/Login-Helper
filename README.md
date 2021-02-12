@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O projeto Login Helper é uma aplicação que realizei em um curso, com o foco de colocarmos em prática o conteúdo estudado na prática.
+O projeto Login Helper é uma aplicação que realizei durante um curso, com o foco de colocarmos em prática o conteúdo estudado na prática.
 Ele aborda conceitos básicos de HTML, CSS e JavaScript na criação de uma tela de login genérica completa. 
 
 ## Tecnologias utilizadas
